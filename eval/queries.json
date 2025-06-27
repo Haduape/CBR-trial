@@ -1,0 +1,32 @@
+[
+  {
+    "query": "Terdakwa tidak menyampaikan Surat Pemberitahuan (SPT) Tahunan Pajak Penghasilan secara sengaja, yang mengakibatkan kerugian pendapatan negara.",
+    "ground_truth": [
+      "case (24).txt"
+    ]
+  },
+  {
+    "query": "Terdakwa mengkreditkan faktur pajak fiktif tanpa transaksi sebenarnya, melanggar UU Ketentuan Umum dan Tata Cara Perpajakan.",
+    "ground_truth": [
+      "case (30).txt"
+    ]
+  },
+  {
+    "query": "Terdakwa menyampaikan faktur pajak tidak sah untuk mengurangi pajak yang terutang, menyebabkan kerugian negara.",
+    "ground_truth": [
+      "case (4).txt"
+    ]
+  },
+  {
+    "query": "Terdakwa terbukti melakukan pelanggaran Pasal 39 UU KUP dan Pasal 3 UU TPPU karena menyembunyikan aset dari penghasilan tak sah.",
+    "ground_truth": [
+      "case (3).txt"
+    ]
+  },
+  {
+    "query": "Terdakwa tidak menyetorkan PPN yang telah dipungut kepada negara, berdasarkan pasal 39 ayat 1 huruf i UU KUP.",
+    "ground_truth": [
+      "case (33).txt"
+    ]
+  }
+]
